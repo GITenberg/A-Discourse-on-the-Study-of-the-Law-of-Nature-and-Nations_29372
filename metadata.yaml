@@ -1,0 +1,30 @@
+_repo: A-Discourse-on-the-Study-of-the-Law-of-Nature-and-Nations_29372
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mackintosh, James, Sir
+    birthdate: 1765
+    deathdate: 1832
+    gutenberg_agent_id: '33880'
+    url: http://www.gutenberg.org/2009/agents/33880
+    wikipedia: http://en.wikipedia.org/wiki/James_Mackintosh
+description: ''
+gutenberg_issued: '2009-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29372'
+  lccn: '10016518'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KZ'
+- !lcc 'JX'
+- !lcsh 'International law'
+- !lcsh 'Natural law'
+title: A Discourse on the Study of the Law of Nature and Nations
+url: http://www.gutenberg.org/ebooks/29372
